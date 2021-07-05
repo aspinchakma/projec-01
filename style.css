@@ -199,3 +199,37 @@ body{
     text-decoration:none;
     border-radius:36px;
 }
+.jibon h4{
+    font-size: 12px;
+    text-align: center;
+    color:#696969;
+    margin-bottom: 20px;
+}
+.qutose{
+    display:flex;
+    width:1100px;
+    margin-left:125px;
+    margin-bottom: 100px;
+    background-image:url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.image{
+    width:71%;
+}
+.image img{
+    width:100%;
+}
+.image-22{
+    padding:45px 43px;
+    margin-left:201px;
+    margin-right:45px;
+    box-shadow:4px 4px 15px black;
+    border-right:10px solid;
+    border-image:linear-gradient(#FF9D34, #FFCE19);
+    border-image-slice:1;
+}
+.image-22 p{
+    font-style:italic;
+    margin:10px 0px;
+}

@@ -164,3 +164,38 @@ body{
 .gallery{
     margin-bottom:100px;
 }
+.life{
+    margin-bottom:100px;
+}
+.footer-tea{
+    color:white;
+    height:300px;
+    width:1100px;
+    height:270px;
+    margin-left:125px;
+    padding-top:22px;
+    padding-top:55px;
+}
+.simul{
+    background-color: black;
+    margin-bottom:100px;
+}
+.simul h1{
+    font-size: 37px;
+    font-weight: 400;
+}
+.simul h3{
+    font-size: 19px;
+    font-weight:400;
+    margin-top:18px;
+    margin-bottom:50px;
+}
+.simul a{
+    background-color:#af1111;
+    color:white;
+    font-size: 14px;
+    font-weight: 700;
+    padding:15px 30px;
+    text-decoration:none;
+    border-radius:36px;
+}

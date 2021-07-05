@@ -81,6 +81,9 @@ body{
 .who-1{
     margin-left: 10px;
     padding:25px 46px;
+    border-left:10px solid;
+    border-image:linear-gradient(#FF6F50, #FF946F);
+    border-image-slice:1;
 }
 .who-is p{
     color:rgb(49, 47, 47);
@@ -97,6 +100,7 @@ body{
     background-image:url(images/exp-bg.png);
     background-repeat:no-repeat;
     background-position: left;
+    
    
 }
 .who-2{
